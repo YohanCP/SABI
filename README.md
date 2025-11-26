@@ -1,4 +1,4 @@
-# 🚀 [Nama Proyek Anda] | Real-time Mobile Application
+# 🚀 SABI | Real-time Mobile Application
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-blue.svg)]()
